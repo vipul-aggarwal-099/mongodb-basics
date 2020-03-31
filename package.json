@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-basics",
+  "version": "1.0.0",
+  "description": "![Image of Mongodb](https://github.com/vipul-aggarwal-099/mongodb-basics/blob/master/mongo1db.PNG)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipul-aggarwal-099/mongodb-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipul-aggarwal-099/mongodb-basics/issues"
+  },
+  "homepage": "https://github.com/vipul-aggarwal-099/mongodb-basics#readme",
+  "dependencies": {
+    "mongodb": "^3.5.5"
+  }
+}
