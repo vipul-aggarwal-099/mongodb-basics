@@ -1,7 +1,7 @@
-# mongodb-basics
+# nodejs-task03
 
-![Image of NodeJS CRUD](https://github.com/vipul-aggarwal-099/mongodb-basics/blob/master/mongo1db.PNG)
+![Image of NodeJS interns.js](https://github.com/vipul-aggarwal-099/mongodb-basics/blob/crud-basics/images/nodejs_task03_screenshot_01.PNG)
 
-![Image of Mongodb Database Connection](https://github.com/vipul-aggarwal-099/mongodb-basics/blob/master/mongodb_database_screenshot.PNG)
+![Image of findInterns.js](https://github.com/vipul-aggarwal-099/mongodb-basics/blob/crud-basics/images/nodejs_task03_screenshot_02.PNG)
 
-![Image of Mongodb New File](https://github.com/vipul-aggarwal-099/mongodb-basics/blob/master/mongo3db.PNG)
+![Image of NodeJS(CRUD)](https://github.com/vipul-aggarwal-099/mongodb-basics/blob/crud-basics/images/nodejs_task03_screenshot_03.PNG)
