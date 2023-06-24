@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/vipul-aggarwal-099/mongodb-basics#readme",
   "dependencies": {
-    "mongodb": "^3.5.5"
+    "mongodb": "^3.7.4"
   }
 }
